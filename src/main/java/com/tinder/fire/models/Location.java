@@ -22,7 +22,7 @@ public class Location {
 	private Double altitudeAccuracy;
 	
 	public Location() {
-		super();
+		
 	}
 
 	public Location( Double latitude, Double longitude, Double altitude, Double accuracy,
